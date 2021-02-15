@@ -1,0 +1,3 @@
+﻿voca = input()
+
+print(voca)
